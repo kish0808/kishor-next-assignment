@@ -36,7 +36,7 @@ export default function QuestionList() {
         <div className="w-full lg:w-1/2">
           <div className="relative" style={{ paddingTop: "56.25%" }}>
             <iframe
-              src="https://youtu.be/GRpoRxmMWVw?si=l5v2ii8eO_Q1p3O1"
+              src="https://www.youtube.com/embed/GRpoRxmMWVw"
               title="YouTube video player"
               allowFullScreen
               className="absolute top-0 left-0 w-full h-full"
